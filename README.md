@@ -9,11 +9,13 @@
 
 <p align="center">
         <samp>
+                ```
                 <b><i>&lt; intro &gt;</i></b>
+                ```
                 <br>
                 &lt; I am a Software Developer, intersted in Web Development, located in <b>India</b> &gt;
                 <br>
                 <br>
-                <b>&lt; /intro &gt;</b>
+                <b><i>&lt; /intro &gt;</i></b>
         </samp>
 </p>
