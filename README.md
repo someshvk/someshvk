@@ -17,6 +17,7 @@
                 <b><i>&lt; /intro &gt;</i></b>
         </samp>
         <br>
+        <br>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
@@ -38,6 +39,6 @@
         </a>
         <!-- SCSS  -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="SCSS"
-                        src="https://img.shields.io/badge/-SCSS-1572B6?style=flat-square&logo=SCSS&logoColor=white">
+                        src="https://img.shields.io/badge/-SCSS-1572B6?style=flat-square&logo=SASS&logoColor=white">
         </a>
 </p>
