@@ -9,7 +9,7 @@
 
 <p align="center">
         <samp>
-                <b color="#fb5932">&lt; intro &gt;</b>
+                <span color="#fb5932"><b>&lt; intro &gt;</b></span>
                 <br>
                 &lt; I am a Software Developer, intersted in Web Development, located in <b>India</b> &gt;
                 <br>
