@@ -7,8 +7,8 @@
 </h3>
 <br>
 
-<p align="center">
-        <samp align="start">
+<p align="start">
+        <samp>
                 <b><i>&lt; intro &gt;</i></b>
                 <br>
                 &lt; I am a Software Developer, intersted in Web Development, located in <b>India</b> &gt;
