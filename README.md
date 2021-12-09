@@ -43,6 +43,10 @@
         </a>
         <!-- React  -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=SReact&logoColor=white">
+                        src="https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=React&logoColor=white">
+        </a>
+        <!-- Angular  -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Angular"
+                        src="https://img.shields.io/badge/-Angular-f10c2f?style=flat-square&logo=Angular&logoColor=white">
         </a>
 </p>
