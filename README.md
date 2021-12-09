@@ -49,4 +49,8 @@
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Angular"
                         src="https://img.shields.io/badge/-Angular-f10c2f?style=flat-square&logo=Angular&logoColor=white">
         </a>
+        <!-- NodeJS -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NodeJS"
+                        src="https://img.shields.io/badge/-NodeJS-68a063?style=flat-square&logo=node.js&logoColor=white">
+        </a>
 </p>
