@@ -7,11 +7,11 @@
 </h3>
 <br>
 
-<p align="start">
+<p align="centre">
         <samp>
                 <b><i>&lt; intro &gt;</i></b>
                 <br>
-                &lt; I am a Software Developer, intersted in Web Development, located in <b>India</b> &gt;
+                I am a Software Developer, intersted in Web Development, located in <b>India</b>.
                 <br>
                 <br>
                 <b><i>&lt; /intro &gt;</i></b>
