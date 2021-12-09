@@ -41,4 +41,8 @@
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="SCSS"
                         src="https://img.shields.io/badge/-SCSS-cd6799?style=flat-square&logo=SASS&logoColor=white">
         </a>
+        <!-- React  -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=SReact&logoColor=white">
+        </a>
 </p>
