@@ -9,10 +9,11 @@
 
 <p align="center">
         <samp>
-                &lt; I Code what I Design &gt;
+                <b>&lt; intro &gt;</b>
                 <br>
-                &lt; I am a front-end web developer and passionate ui designer from <b>Bangladesh</b> &gt;
+                &lt; I am a Software Developer, intersted in Web Development, located in <b>India</b> &gt;
                 <br>
                 <br>
+                <b>&lt; /intro &gt;</b>
         </samp>
 </p>
