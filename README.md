@@ -39,6 +39,6 @@
         </a>
         <!-- SCSS  -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="SCSS"
-                        src="https://img.shields.io/badge/-SCSS-F2ECE4?style=flat-square&logo=SASS&logoColor=white">
+                        src="https://img.shields.io/badge/-SCSS-cd6799?style=flat-square&logo=SASS&logoColor=white">
         </a>
 </p>
