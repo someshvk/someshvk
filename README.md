@@ -9,7 +9,7 @@
 
 <p align="center">
         <samp>
-                ```
+                ```html
                 <b><i>&lt; intro &gt;</i></b>
                 ```
                 <br>
